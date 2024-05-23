@@ -44,3 +44,17 @@ These pre-built images are provided for convenience and include all optional and
 If you want to install Bold Reports from scratch and precisely control which optional libraries are installed, please download the stand-alone product from boldreports.com. If you have any questions, please contact the Bold Reports team (https://www.boldreports.com/support).
 
 It is the image user's responsibility to ensure that any use of this image complies with any relevant licenses for all software contained within.
+
+## FAQ
+
+[How to auto deploy Bold Reports in Kubernetes cluster?](https://support.boldreports.com/kb/article/16084/how-to-deploy-bold-reports-in-a-kubernetes-cluster)
+
+[How to deploy Bold Reports in Elastic Kubernetes Services (EKS) using Application Load Balancer (ALB)?](https://support.boldreports.com/kb/article/16114/how-to-deploy-bold-reports-in-elastic-kubernetes-services-using-application-load-balancer)
+
+[How to deploy Bold Reports in Alibaba Cloud Kubernetes (ACK) Cluster?](https://support.boldreports.com/kb/article/16118/deploying-bold-reports-in-alibaba-cloud-kubernetes-cluster)
+
+[How to deploy Bold Reports and Bold BI in Alibaba Cloud Kubernetes (ACK) Cluster?](https://support.boldreports.com/kb/article/16123/deploying-bold-reports-and-bold-bi-in-alibaba-cloud-kubernetes-cluster)
+
+[How to upgrade Bold Reports using kubectl?](https://github.com/boldreports/bold-reports-kubernetes/blob/master/upgrade/upgrade.md)
+
+[How to migrate the file share from Azure SMB Fileshare to NFS Fileshare?](https://support.boldreports.com/kb/article/16116/how-to-migrate-a-file-share-from-azure-smb-file-share-to-nfs-file-share)
